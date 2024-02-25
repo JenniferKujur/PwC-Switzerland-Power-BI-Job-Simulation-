@@ -1,7 +1,7 @@
 
-#PwC Switzerland Power BI Job Simulation on Forage - February 2024
+**PwC Switzerland Power BI Job Simulation on Forage - February 2024**
 
-Key Highlights-
+**Key Highlights-**
  * Completed a job simulation where I strengthened my PowerBI skills to better
    understand clients and their data visualisation needs.
 
